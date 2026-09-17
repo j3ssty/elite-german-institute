@@ -555,7 +555,7 @@ function App() {
 
   </div>
 </section>
-<footer className="footer">
+<<footer className="footer">
 
   <div className="footer-content">
 
@@ -574,12 +574,11 @@ function App() {
 
     <div className="footer-links">
 
+      <h4>Quick Links</h4>
+
       <a href="#home">Home</a>
-
       <a href="#about">About</a>
-
       <a href="#courses">Courses</a>
-
       <a href="#contact">Contact</a>
 
     </div>
@@ -587,11 +586,13 @@ function App() {
 
     <div className="footer-contact">
 
+      <h4>Contact Us</h4>
+
       <p>📱 +254 741 331 186</p>
 
       <p>✉️ instituteelitegerman@gmail.com</p>
 
-      <p>🎵 @germaninstitute1</p>
+      <p>🎵 TikTok: @germaninstitute1</p>
 
     </div>
 

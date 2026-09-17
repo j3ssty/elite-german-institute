@@ -429,6 +429,7 @@ a {
 .testimonials-section {
   padding: 100px 8%;
   background: #f8f8f8;
+   color: #3704f1;
 }
 
 .testimonial-grid {
@@ -1130,24 +1131,41 @@ a {
 .tip-card:hover {
   transform: none;
 }
-.footer-brand p {
-  margin-top: 6px;
+.footer {
+  padding: 50px 20px 20px;
+  width: 100%;
+  overflow: hidden;
 }
 
-.footer-contact {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  text-align: right;
-}
-
-.footer-contact p {
-  color: #aaaaaa;
-  font-size: 14px;
+.footer-content {
+  width: 100%;
+  grid-template-columns: 1fr;
+  gap: 35px;
+  text-align: center;
 }
 
 .footer-brand {
-  max-width: 300px;
+  max-width: 100%;
+}
+
+.footer-links {
+  align-items: center;
+}
+
+.footer-contact {
+  align-items: center;
+  text-align: center;
+}
+
+.footer-bottom {
+  width: 100%;
+  padding-top: 20px;
+}
+
+.footer-bottom p {
+  font-size: 12px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 }
 
