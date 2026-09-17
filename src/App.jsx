@@ -555,7 +555,7 @@ function App() {
 
   </div>
 </section>
-<<footer className="footer">
+< footer className="footer">
 
   <div className="footer-content">
 
