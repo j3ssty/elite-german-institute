@@ -397,7 +397,7 @@ function App() {
         confident speaking German."
       </p>
 
-      <h4>— Student A</h4>
+      <h4>— James Mwangi</h4>
     </div>
 
     <div className="testimonial-card">
@@ -408,7 +408,7 @@ function App() {
         much easier for me now."
       </p>
 
-      <h4>— Student B</h4>
+      <h4>— Sean Mwirigi  </h4>
     </div>
 
     <div className="testimonial-card">
@@ -418,7 +418,7 @@ function App() {
         "The lessons are engaging and the explanations are very clear."
       </p>
 
-      <h4>— Student C</h4>
+      <h4>— Jane Koech</h4>
     </div>
   </div>
 </section>
